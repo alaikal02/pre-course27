@@ -7,3 +7,5 @@ nama saya rolando
 nama saya kusumo aji
 umur saya 22
 alamat saya di kuala lumpur
+
+ini adalah file bersama
